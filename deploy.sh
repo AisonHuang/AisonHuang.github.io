@@ -11,7 +11,7 @@ cd docs/.vuepress/dist
 
 
 # deploy to github
-echo 'AisonHuang.huawei.com' > CNAME
+echo 'AisonHuang.com' > CNAME
 echo 'aaaaaaa'
 
 
